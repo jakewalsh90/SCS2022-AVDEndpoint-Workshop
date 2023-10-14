@@ -1,8 +1,6 @@
 # South Coast Summit 2022 - AVD and Intune Workshop
 Repo for the 2022 South Coast Summit AVD and Intune Workshop.
 
-[![Check Links](https://github.com/jakewalsh90/SCS2022-AVDEndpoint-Workshop/actions/workflows/links.yml/badge.svg)](https://github.com/jakewalsh90/SCS2022-AVDEndpoint-Workshop/actions/workflows/links.yml)
-
 ### ⚠ Please note: this repo was for a one day workshop and may not be updated after 14/Oct/2022!
 
 ## Useful Links:
